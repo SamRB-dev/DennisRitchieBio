@@ -6,3 +6,5 @@ A self learning project experimenting with css flexbox while tributing the man w
 * Rounded Images
 * Some Basic Js
 
+# Link to the project
+https://dennisritchiebio.netlify.app/
