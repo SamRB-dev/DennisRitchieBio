@@ -1,0 +1,127 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Beau Rivage', cursive;
+}
+
+h1 {
+    text-align: center;
+    font-size: 60px;
+}
+
+.main {
+    display: flex;
+}
+
+.dr {
+    width:50%;
+    text-align:center;
+    display:flex;
+    flex-direction:column;
+    justify-content: center;
+    margin-top:10%;
+    font-size:25px;
+    font-weight: 700;
+}
+
+img {
+    width: 50%;
+    border: green solid 3px;
+    border-radius:50%;
+    padding:8px;
+    margin-left: 23%;
+}
+
+.content{
+    width:50%;
+}
+
+.content pre {
+    font-size: 150%;
+}
+
+.footer .hr hr {
+    width:80%;
+    color:#630df1;
+    margin-top:20px;
+    margin-bottom: 20px;
+    margin-left: 8%;
+}
+
+.srcDev p {
+    text-align:center;
+    font-size:170%;
+}
+
+.srcDev ul li {
+    margin-left:5%;
+    list-style-type: square;
+    margin-left: 19%;
+}
+
+.srcDev a {
+    font-size: 160%;
+    text-decoration: none;
+}
+
+.srcDev a:hover {
+    font-size: 180%;
+    font-weight: 700;
+    color:black;
+}
+
+.srcDev a:visited {
+    color: #ff1300 ;
+}
+
+.head {
+    display: flex;
+}
+
+.head h1 {
+    width:97%;
+}
+
+.head img {
+    width:20px;
+    height:10px;
+    background-color:white;
+    border:none;
+}
+
+.head button {
+    width: 35px;
+    height:35px;
+}
+
+.socials {
+    margin-top:55px;
+    font-size: 145%;
+    font-weight: 700;
+    text-align:center;
+}
+
+.socials a img {
+    width:8%;
+    border: none;
+    margin: 0;
+}
+
+.dev {
+    width:100%;
+    text-align:center;
+    margin-top:50px;
+}
+
+.dev p {
+    font-size: 180%;
+}
+
+.dev a {
+    text-decoration: none;
+    color: #14e71a;
+}
+
+.dev a:hover {
+    color:#1b45e4;
+}
