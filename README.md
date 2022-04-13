@@ -1,4 +1,4 @@
-A self learning project experimenting with css flexbox while tributing the man who changed the world with C.
+A self learning project experimenting with css flexbox while tributing to the man who changed the world with C.
 
 # What I learned through the project
 * Flexbox
