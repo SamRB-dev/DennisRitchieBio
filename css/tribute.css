@@ -79,19 +79,13 @@ img {
 }
 
 .head h1 {
-    width:97%;
-}
-
-.head img {
-    width:20px;
-    height:10px;
-    background-color:white;
-    border:none;
+    width:96%;
 }
 
 .head button {
-    width: 35px;
-    height:35px;
+    width: 45px;
+    height:30px;
+    padding:2px;
 }
 
 .socials {
